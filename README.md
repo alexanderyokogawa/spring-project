@@ -1,4 +1,4 @@
-# Springified Product Service
+# Spring Product Service
 ## Módulo 2 — Spring Boot Core
 
 Este projeto é a **implementação de referência** do exercício final do **Módulo 2** do grupo de estudos Java.  
